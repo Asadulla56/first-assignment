@@ -86,7 +86,7 @@ main .about-section {
 }
 
 .title-section {
-    color:beige;
+    color: beige;
     margin-left: 100px;
     font-size: 15px;
     font-weight: 400;
@@ -100,16 +100,47 @@ main .about-section {
     font-weight: 700;
     text-transform: uppercase;
 }
-.best{
+
+.best {
     color: crimson;
 }
-.portifilo{
+
+.portifilo {
     color: black;
     font-size: 40px;
 }
-.skills-container{
+
+.skills-container {
     display: flex;
     gap: 30px;
     border-radius: 2px solid red;
 
+}
+
+.about-skills {
+    padding: 130px;
+    border-radius: 0.625rem;
+    background: #FFF8F3;
+    margin: 130px 0px;
+    text-align: justify;
+}
+
+.skill {
+    margin-left: 39%;
+}
+
+.section-titles {
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+text-align: center;
+margin-bottom: 25px;
+padding: 18px 35px;
+}
+.btn{
+    color: red;
+    
 }
