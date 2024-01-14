@@ -125,6 +125,21 @@ main .about-section {
     text-align: justify;
 }
 
+.asad-title {
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: solid;
+}
+
+.asad {
+    color: red;
+    margin-left: 39%;
+    font-size: 50px;
+    text-align: justify;
+
+}
+
 .skill {
     margin-left: 39%;
 }
@@ -163,12 +178,14 @@ footer {
     line-height: 2.5rem;
     /* 166.667% */
 }
-.columns{
-margin-left: 500px;
-margin-top: 10px;
-margin-bottom: 10px;
+
+.columns {
+    margin-left: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
-.sections-titles{
+
+.sections-titles {
     color: red;
     margin-top: 100px;
 }
