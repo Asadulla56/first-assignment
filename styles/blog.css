@@ -1,0 +1,58 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    text-align: center;
+    width: 78%;
+    margin: 0px auto;
+    border: 2px solid bisque;
+}
+
+header .poster {
+    margin: 0px auto;
+    border: 2px solid red;
+    background: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    width: auto;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 1rem;
+    background: linear-gradient(#737275)
+}
+
+.poster-title {
+    color: #FFF;
+    text-align: center;
+    margin: 177px 344px;
+
+}
+
+main section {
+    margin: 130px;
+}
+.section-title {
+    color: #2d0fee;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+.section-description{
+    color: hsl(353, 98%, 50%);
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+.section-party{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+.about-title{
+fill: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+}
