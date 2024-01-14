@@ -100,3 +100,16 @@ main .about-section {
     font-weight: 700;
     text-transform: uppercase;
 }
+.best{
+    color: crimson;
+}
+.portifilo{
+    color: black;
+    font-size: 40px;
+}
+.skills-container{
+    display: flex;
+    gap: 30px;
+    border-radius: 2px solid red;
+
+}
