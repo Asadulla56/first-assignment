@@ -136,11 +136,39 @@ main .about-section {
 }
 
 .container {
-text-align: center;
-margin-bottom: 25px;
-padding: 18px 35px;
+    text-align: center;
+    margin-bottom: 25px;
+    padding: 18px 35px;
 }
-.btn{
+
+.btn {
     color: red;
-    
+
+}
+
+footer {
+    display: flex;
+    background: #0f0f0f;
+    justify-content: space-between;
+    margin-top: 50px;
+    padding: 130px 200px;
+}
+
+.sections-title {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 2.5rem;
+    /* 166.667% */
+}
+.columns{
+margin-left: 500px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.sections-titles{
+    color: red;
+    margin-top: 100px;
 }
